@@ -1,0 +1,19 @@
+body {
+    background-image: url(14.jpg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 20%;
+    
+}
+h2{
+    margin-left: 35%;
+    
+}
+P{
+    font-size: 5%;
+}
